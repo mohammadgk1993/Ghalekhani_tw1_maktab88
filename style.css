@@ -1,0 +1,16 @@
+.weather-icon {
+    width: 100px;
+    height: 100px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+}
+iframe {
+    width: 100%;
+    margin: 0;
+}
+.calling-code {
+    padding: 10%;
+    font-size: 200px;
+}
